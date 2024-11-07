@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kursova_SFML", "Kursova_SFML.vcxproj", "{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Debug|x64.ActiveCfg = Debug|x64
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Debug|x64.Build.0 = Debug|x64
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Debug|x86.Build.0 = Debug|Win32
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Release|x64.ActiveCfg = Release|x64
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Release|x64.Build.0 = Release|x64
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Release|x86.ActiveCfg = Release|Win32
+		{ABEFC20F-0F61-4D11-95B6-0D507FF28CEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E056E407-F305-48D3-BAE1-75ED0FB8DA13}
+	EndGlobalSection
+EndGlobal
